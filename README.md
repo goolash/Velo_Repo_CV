@@ -5,3 +5,5 @@ Velo_Repo_CV
 #This is the shared repo for Clearvision code drops
 
 $ git commit -m 'first commit'
+$ git config --global merge.tool vimdiff
+
